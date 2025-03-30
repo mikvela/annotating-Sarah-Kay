@@ -365,27 +365,6 @@
       "uuid": "7f2e1f3e-bba4-451a-98de-75451d7f8606"
     },
     {
-      "start_time": 135,
-      "end_time": 143,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Love\" is repeated to emphasize the personification of \"love\" and his/her habits "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        }
-      ],
-      "uuid": "7e0e00f1-604b-4a3d-9b50-3f167befb041"
-    },
-    {
       "start_time": 150,
       "end_time": 156,
       "annotation": [
