@@ -1,5 +1,735 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They both recite this verse to emphasize the beginnings for both of them; the pause emphasizes this beginnnng as well "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "2104c289-8e8e-40bf-b483-2180f694b519"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause and high pitch of voice adds to the naiveness that youth believe what love to be, setting the expectations"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "b521f896-465a-40aa-86ea-3b6d4ff98e75"
+    },
+    {
+      "start_time": 11,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Defines \"love\" as being a person when used in this poem; personification "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Definition",
+          "category": "Background"
+        }
+      ],
+      "uuid": "7fcec6f8-b26e-4e94-ada1-eba31afdbd9f"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together to emphasize similar expectations to how love would \"be like\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "46ffe4ec-26ff-43a8-836f-4235b67de9e8"
+    },
+    {
+      "start_time": 44,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together to mark the timeline of this love story; their first meeting "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "456decba-bb43-4408-829b-ca05dc55a731"
+    },
+    {
+      "start_time": 58,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Having the same thoughts of expectations not meeting the fantasy "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "db5d3a5a-76af-4f56-87f8-2c2d54ebe053"
+    },
+    {
+      "start_time": 64,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause to micmic a teen attempting to lie"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7ec62f2d-1f2d-4361-9ddc-f4f3b953d69c"
+    },
+    {
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience laughing as this is a relatable moment for almost everyone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "eb2ca034-97a6-4c11-84e9-4f4549c3d6fd"
+    },
+    {
+      "start_time": 75,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sarah changing her voice to a low growl tone and Phils heavy nervous breathing is an amazing way to portray nervousness inexplicitly we call this identification in voice: acousmatic voice; Phils adlibs weren't in the lyrics of the poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "84b4c84d-3921-4876-9fc8-9c2dc1536362"
+    },
+    {
+      "start_time": 88,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Realization that her \"love\" is no longer in her life "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "287efded-79fa-4062-8c00-8c9f8f4cb912"
+    },
+    {
+      "start_time": 93,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This verse is a relatable and profound feeling many experienced and is quoted most often and is actually how I found this poem "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "ef1f17ad-12a6-4f83-b629-007d14361b5e"
+    },
+    {
+      "start_time": 104,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together - when there are versus Sarah and Phil say together it is referencing the notion that they share similar feelings or thoughts "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "9f07e1e1-a3db-4c0b-8401-03dc2ac450ba"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together but for performance; Phil says \"her\" with Sarah and emphasizes the sudden moment walking somewhere in the world and seeing someone whom you used to have relations with"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "1bc1c2a9-5fd8-476c-b263-ccabec00d4f6"
+    },
+    {
+      "start_time": 123,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause is portraying the moment of realization Sarah has: she is no longer the only love Phil has had in his life, there were others "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8b8c4cfc-e1ad-4ae7-a326-98cf2d591ee4"
+    },
+    {
+      "start_time": 130,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together; similar thinking, on the same wave length "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "2d7a44c9-cac6-4041-882a-08601d142196"
+    },
+    {
+      "start_time": 135,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their voices sound gentle and soft portraying the loss of a past love that may be reigniting now  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "7a90b48d-d940-42a2-8f92-497e84c41f90"
+    },
+    {
+      "start_time": 135,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Love\" is repeated to emphasize the personification of \"love\" and his/her habits "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "103f4ae4-4737-489c-874e-65627ac82f4d"
+    },
+    {
+      "start_time": 150,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The speakers voices become increasingly irritable towards eachother with the change of tone portraying the change from admiration to annoyance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "a6a9d4c2-f3ad-408b-b28e-6c8116c1f5e7"
+    },
+    {
+      "start_time": 158,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word \"boobs\" was amplified and longer duration to highlight Sarah's annoyance and emphasize her distaste for Phil's \"immaturity\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "728fd0cd-6542-401b-9e36-3a44c14445dc"
+    },
+    {
+      "start_time": 166,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Love shits!\" was amplified for shock value (as it was shocking for the two to know this new information)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "37e99cea-2527-4cb7-be2c-ec92000edfab"
+    },
+    {
+      "start_time": 168,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughter from the audience adds to the lightheartedness and relatability many found with the preceding verse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "2669a002-d316-4d2d-947d-34fd44f405c8"
+    },
+    {
+      "start_time": 170,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The realization; another point of change within Sarah's point of view "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "b111168e-7551-4324-9807-6e0ad0d382c0"
+    },
+    {
+      "start_time": 175,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil interjects Sarah's line to emphasize how much he \"means it\"; how much he means when he compliments her beauty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "e6b11e5f-465a-4652-a9fe-8239dd398a84"
+    },
+    {
+      "start_time": 178,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "repetition to emphasize how important this term is to Sarah to further point at how many rely on their partners validation (even unconciously) on their appearances "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "7690db67-2a66-447b-8450-c717dd93062d"
+    },
+    {
+      "start_time": 188,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"love thinks..\" diverting the audiences expectation from Phil to Sarah; learning to view yourself as beautiful without reliance on your partner, a lesson many can learn from "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "664f3ccc-2b38-4f07-8ea5-40bb9f8a64fe"
+    },
+    {
+      "start_time": 198,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A concluding verse to this implicit message of loving yourself, a reminder many need once in awhile"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Definition",
+          "category": "Background"
+        }
+      ],
+      "uuid": "3444af5e-19f8-4ac1-b4b8-cc63801d2266"
+    },
+    {
+      "start_time": 210,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"India\" is not in the official poem script, but was added for the performance to emphasize the unpredictable nature of where and when you may encounter \"love\"  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "bb1e228d-ca5a-484e-8d87-8d5168c9afa9"
+    },
+    {
+      "start_time": 213,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the poem, the versus have similarly repeated beginnings, spoken in the same tempo; These versus begin with a \"Maybe\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "c1476a25-f012-4257-8c73-d4d323d506b6"
+    },
+    {
+      "start_time": 233,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their voices slowly begin to sound weaker, vulnerable, tired to portray the exhaustion of fixing something that is already beyond repair (the end of the relationship) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "a31e80e5-6a49-47ea-ba01-ad45d6ae96f1"
+    },
+    {
+      "start_time": 238,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A pause after this verse highlighting the anguish of love being impermanent; acceptance settling in on both Sarah and Phil; this part of the poem mimics a conversation between the two with one desparate to leave and the other hanging on, begging for them to stay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "082bdd45-3b84-4c43-9a54-6f2fd94e9919"
+    },
+    {
+      "start_time": 240,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together; as both have come to an acceptance that they must end their relationship"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "89873779-2257-48f5-a1f5-9c3f5f908f54"
+    },
+    {
+      "start_time": 250,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Said together, allowing themselves to open up to other opportunities and potental partners"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b0f0f4d7-cea3-40a0-92ad-890d1e9b0b49"
+    },
+    {
+      "start_time": 263,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A concluding verse to end both the poem and relationship; accepting that your expectations of how \"love\" is supposed to be will not always follow through, and that is alright. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "2fbb62cc-b858-4819-9156-c5efec260cb5"
+    }
+  ],
   "set": "Default",
   "event_id": "36dead6e-7f38-459d-99bb-0899f9f1cdb8",
   "source_id": "554a50f1-f67b-485a-8de7-4e4f4eee72e1"
